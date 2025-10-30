@@ -1,0 +1,27 @@
+# IT Automation Helpdesk
+
+## Overview
+This repository demonstrates a collection of **Python automation tools and scripts** used in IT Support and Helpdesk environments. Each script mirrors real-world workflows: automating repetitive tasks, ensuring SLA compliance, and improving operational efficiency.
+
+## Key Modules
+- **Ticket Management:** Automates intake and prioritization.
+- **User Account Automation:** Streamlines onboarding/offboarding.
+- **Password Reset:** Securely automates password resets.
+- **System Diagnostics:** Gathers and reports hardware/software health.
+- **Network Monitoring:** Tracks connectivity and uptime.
+- **Escalation & Reporting:** Documents resolution paths and SLAs.
+
+## Technologies Used
+- Python 3
+- psutil, subprocess, os, re, json, requests
+- Active Directory (simulated logic)
+- Markdown documentation for recruiters and technical viewers
+
+## Objective
+This repo highlights practical automation and IT management logic to demonstrate:
+- Problem-solving ability
+- Scripting efficiency
+- Workflow understanding
+- Real-world IT process modeling
+
+---
