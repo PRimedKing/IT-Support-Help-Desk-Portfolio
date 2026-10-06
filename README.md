@@ -2,7 +2,7 @@
 
 Hands-on practice for a career in IT support. This repo holds the troubleshooting guides, scripts and case notes I use to build and show my skills.
 
-**Credentials:** Google IT Support Professional Certificate (2026) | CompTIA A+ (in progress)
+**Credentials:** Google IT Support Professional Certificate (2026) | CompTIA A+ (in progress) | Python for IT Automation (expected Nov 2026) | Google Cybersecurity Certificate (expected Nov 2026)
 
 ## What's in this repo
 
