@@ -44,6 +44,8 @@ It includes practical examples of help desk workflows, Python automation scripts
 ## 🚀 Goal
 This portfolio demonstrates my readiness for Tier 1–2 IT Support or Help Desk roles by combining hands-on troubleshooting examples with Python automation for efficiency.
 
+**My approach:** ask what changed, check the simple things first, isolate the problem, fix it, confirm with the user, and document it so the next person solves it faster.
+
 ---
 
 🔗 LinkedIn: https://www.linkedin.com/in/elijah-carrasquillo-aa756b231
