@@ -1,45 +1,30 @@
-# IT Support / Help Desk Portfolio
+# IT Support & Help Desk Portfolio
 
-This repository showcases my technical support, troubleshooting, and IT automation experience.  
-It includes practical examples of help desk workflows, Python automation scripts, and documentation from real-world support scenarios.
+Hands-on practice for a career in IT support. This repo holds the troubleshooting guides, scripts and case notes I use to build and show my skills.
 
----
+**Credentials:** Google IT Support Professional Certificate (2026) | CompTIA A+ (in progress)
 
-## 🔧 Key Skills Demonstrated
-- Technical troubleshooting (hardware/software/network)
-- IT automation with Python
-- System monitoring and diagnostics
-- Ticket handling and escalation procedures
-- Documentation and process standardization
+## What's in this repo
 
----
+| Folder | What it contains |
+|---|---|
+| `1_Troubleshooting_Guides` | Step-by-step help desk articles: printer problems, password resets and lockouts, no internet, slow computer, malware cleanup |
+| `2_Automation_Scripts` | Small Python scripts that check system values (OS, disk space, drivers, startup items) and report pass/fail |
+| `3_Case_Notes` | Short "problem, steps, fix" write-ups from hands-on practice, with a template |
 
-## 📜 Certifications
-- ✅ Google IT Support Professional Certificate – *Completed*
-- ✅ Python for IT Automation – *In Progress (Expected: Feb 2026)*
-- 🔄 Google Cybersecurity Certificate – *In Progress (Expected: June 2026)*
+## How the guides are written
 
----
+Each guide follows the same format so it is quick to use at a help desk:
 
-## ⚙️ Tools & Technologies
-- Windows / macOS / Linux administration  
-- Active Directory, PowerShell, Command Line  
-- Python (automation, scripting)  
-- Ticketing Systems (Jira, Zendesk examples)  
-- Networking tools (ping, traceroute, ipconfig, nmap)
+1. **Symptoms**: what the user reports
+2. **Checks in order**: simplest and most common causes first
+3. **Verify**: how to confirm the fix worked
+4. **Escalate**: when to hand it to someone else
 
----
+## Approach
 
-## 🧩 Repo Structure
+Ask what changed, check the simple things first, isolate the problem, fix it, confirm with the user, and document it so the next person solves it faster.
 
-| Folder | Description |
-|--------|--------------|
-| **1_HelpDesk_Tickets** | Simulated support tickets and escalation workflows |
-| **2_Automation_Scripts** | Python scripts for automating IT tasks |
-| **3_Documentation** | Policies, recovery plans, and setup guides |
-| **4_Training_and_Certs** | Notes and summaries of certifications & tools |
+## Connect
 
----
-
-## 🚀 Goal
-This portfolio demonstrates my readiness for Tier 1–2 IT Support or Help Desk roles by combining hands-on troubleshooting examples with Python automation for efficiency.
+LinkedIn: https://www.linkedin.com/in/elijah-carrasquillo-aa756b231
